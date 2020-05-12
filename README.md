@@ -4,7 +4,7 @@
 
 The files in this repository were used to configure the network depicted below.
 
-[Perezluha-Cloud-Infrastructure](https://github.com/navyska/Perezluha-Cloud-Infrastructure/blob/master/ELK.png)
+[Perezluha-Cloud-Infrastructure](https://github.com/navyska/Perezluha-Cloud-Infrastructure/blob/master/Week%2013%20Project.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the filebeat-playbook.yml file may be used to install only certain pieces of it, such as Filebeat.
 
