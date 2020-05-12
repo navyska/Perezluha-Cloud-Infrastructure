@@ -73,7 +73,8 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-Perezluha-Cloud-Infrastructre/elk.png
+[Succesful Docker](https://github.com/navyska/Perezluha-Cloud-Infrastructure/blob/master/ELK.png)
+[Succesful Webpage](https://github.com/navyska/Perezluha-Cloud-Infrastructure/blob/master/Module%20Start.png)
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
